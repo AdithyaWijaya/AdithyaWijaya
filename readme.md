@@ -2,24 +2,24 @@
 
 ### A passionate software developer from Indonesia 🇮🇩
 
-🔭 I’m currently working on **awesome projects**
+🔭 8 years old developer from Kupang
 
 🌱 I’m currently learning **new technologies**
 
 💬 Ask me about **Web Development, Programming, or anything**
 
-📫 How to reach me: **your.email@example.com**
+📫 How to reach me: **xditt4gt@gamil.com**
 
 ⚡ Fun fact: **I love coding and problem solving!**
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 
-## ⚒️ Languages - Frameworks - Tools
+## ⚒️ Stacks
 
 ![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php)
 ![Skills](https://skillicons.dev/icons?i=react,vue,nodejs,laravel,bootstrap,tailwind)

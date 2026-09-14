@@ -21,11 +21,11 @@
 
 ## 🚀 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DitHack&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DitHack)
+[![DitHack](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DitHack&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DitHack)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DiTXTools&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DiTXTools)
+[![DiTXTools](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DiTXTools&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DiTXTools)
 
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DiTX-Portfolio&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DiTX-Portfolio)
+[![DiTX-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AdithyaWijaya&repo=DiTX-Portfolio&theme=react&border_radius=10)](https://github.com/AdithyaWijaya/DiTX-Portfolio)
 
 ## ⚡ Stats
 

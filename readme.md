@@ -20,20 +20,19 @@
 
 ## 🌐 Socials
 
-<a href="https://discord.com/users/1191376767169085453" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="1191376767169085453" height="40" width="40" /></a>
-<a href="https://youtube.com/@adithya_wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adithya_wijaya" height="40" width="40" /></a>
-<a href="https://fb.com/adithya24wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adithya24wijaya" height="35" width="40" /></a>
-<a href="https://instagram.com/adithya_wijayax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_wijayax" height="35" width="40" /></a>
-<a href="https://www.tiktok.com/@adithya_wijaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/U07AzIaLq2iMqMCMtnM5iiSrzy7__SmOkD5qeH1vWy745-0rCv6LbSRuyjlDN-4s8EDW1UkHJPrrpd5jYNNkgA=w240-h480-rw" alt="adithya_wijayax" height="" width="40" border-radius="100" /></a>
-<a href="https://twitter.com/adithyawijayajr" target="blank"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/social-medias/x-twitter-logo-4x9ptijrdjch64mh4czlr.png/x-twitter-logo-top697n5ef8g4ua0vz2lu.png?_a=DATAiZAAZAA0" alt="adithyawijayajr" height="40" width="40" /></a>
-
+<a href="https://discord.com/users/1191376767169085453" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP=s52-rw" alt="adithya_wijaya"/></a>
+<a href="https://youtube.com/@adithya_wijaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=s52-rw" alt="Adithya Wijaya"/></a>
+<a href="https://fb.com/adithya24wijaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=s52-rw" alt="Adithya Wijaya"/></a>
+<a href="https://instagram.com/adithya_wijayax" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q=s52-rw" alt="adithya_wijayax"/></a>
+<a href="https://www.tiktok.com/@adithya_wijaya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/U07AzIaLq2iMqMCMtnM5iiSrzy7__SmOkD5qeH1vWy745-0rCv6LbSRuyjlDN-4s8EDW1UkHJPrrpd5jYNNkgA=s52-rw" alt="adithya_wijayax"></a>
+<a href="https://twitter.com/adithyawijayajr" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/IsLsCD4eLC2CYvlkgTI6Z5TROj0BJIBgUF7BZ5eliTzyyTjqG_mbofeG4kw2s7oG_JZMSi5ErLz_qsDi169C8w=s52-rw" alt="adithyawijayajr"/></a>
 
 ## ⚒️ Stacks
 
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,c)
-![Skills](https://skillicons.dev/icons?i=react,vite,nodejs,laravel,tailwind,cpp)
-![Skills](https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,cs,aws)
-![Skills](https://skillicons.dev/icons?i=vscode,figma,docker,linux,apple,windows,vercel)
+![Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,php)
+![Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind,nodejs,dotnet)
+![Skills](https://skillicons.dev/icons?i=laravel,docker,git,github,postgresql,mysql,supabase)
+![Skills](https://skillicons.dev/icons?i=figma,aws,vercel,vscode,windows,linux,apple)
 
 ## 🚀 Featured Projects
 
